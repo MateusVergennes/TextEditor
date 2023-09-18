@@ -150,7 +150,7 @@ void EditorDeTexto::on_actionFonte_triggered(){
 
 
 void EditorDeTexto::on_actionSobre_triggered(){
-    QMessageBox::about(this, "Sobre esse Programa", "Desenvolvido no Curso de Qt Moderno com C++.<br>"
+    QMessageBox::about(this, "Sobre esse Programa", "Desenvolvido em Qt com C++.<br>"
                                                     "<a href='https://google.com.br/'>Acesse</a><br>");
 }
 
